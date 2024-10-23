@@ -11,7 +11,7 @@ Nous pouvons citer quelques exemples:
 - Recommandation de films ou animés
 - Filtrage de Spam
 - Prédiction climatique 
-- Classification de pdf
+- Classification de PDF
 
 ## Fonctionnement du ML
 Le fonctionnement du ML se repose sur 4 étapes clés:
