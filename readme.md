@@ -46,6 +46,6 @@ On donnera plus de détails dans les templates (exemple de code pour ces algorit
 - Matplotlib: bibliothèque Python utilisée our visualisation de la performance du modèle pour l'ajustement et amélioration des modèles
 
 ## Contributeurs
-- [KiritoEM](https://www.facebook.com/junnotdavis.mahazara) 
+- [KiritoEM](https://github.com/KiritoEM) 
 - [HairanRins](https://github.com/HairanRins)  
 
