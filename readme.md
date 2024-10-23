@@ -1,6 +1,6 @@
 ![Texte alternatif](static/image.png)
 ## Le Machine Learning, c'est quoi ?
-Le Machine Learning, ou apprentissage automatique, est une branche scientifique faisant partie de l'intelligence artificielle, permetettant à des algorithmes d'apprendre à partir de données. Cela leur permet de faire des prédictions ou de prendre des décisions sans être explicitement programmés pour chaque tâche.
+Le Machine Learning, ou apprentissage automatique, est une branche scientifique faisant partie de l'intelligence artificielle, permettant à des algorithmes d'apprendre à partir de données. Cela leur permet de faire des prédictions ou de prendre des décisions sans être explicitement programmés pour chaque tâche.
 
 ## Que peut-on réaliser avec ?
 Nous pouvons citer quelques exemples:
