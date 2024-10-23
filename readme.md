@@ -45,3 +45,7 @@ On donnera plus de détails dans les templates (exemple de code pour ces algorit
 - Pandas et NumPy: pour la manipulation des données
 - Matplotlib: bibliothèque Python utilisée our visualisation de la performance du modèle pour l'ajustement et amélioration des modèles
 
+## Contributeurs
+- [KiritoEM](https://www.facebook.com/junnotdavis.mahazara) 
+- [HairanRins](https://github.com/HairanRins)  
+
