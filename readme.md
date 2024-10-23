@@ -17,7 +17,7 @@ Nous pouvons citer quelques exemples:
 Le fonctionnement du ML se repose sur 4 étapes clés:
 - Collecte des données: rassemblement des datasets pour l'entrainement du modèles (lorsqu'on parle de IA donc on parle de datasets pour l'apprentissage du modèle)
 - Préparation des données : nettoyage et transformation des datasets pour les rendre utilisables par l'algorithme, c'est-à-dire, encodage des données d'entrée ou input du modèle, gestion des valeurs manquantes, normalisation des données, conversion des données textuelles en représentations numériques(en matrices et tableaux)
-- Séléction du modèle selon les besoins (les différents types de ML seront cités ci-dessous)
+- Séléction du modèle selon les besoins (les types de ML seront cités ci-dessous)
 - Entraînement du modèle, évaluation de la performance du modèle et ajustement
 
 ## Quelques types de d'apprentissage en ML (avec quelques exemples)
